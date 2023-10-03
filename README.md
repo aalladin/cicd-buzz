@@ -1,2 +1,2 @@
-#  CI/CD pipeline Rob van der Leek Tutorial
+#  CI/CD pipeline Tutorial
 
